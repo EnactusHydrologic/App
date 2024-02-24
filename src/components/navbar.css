@@ -1,0 +1,18 @@
+button {
+  background-color: #555555; /* Black */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  width: fit-content;
+  font-size: 16px;
+}
+
+.button-container {
+  width: 100%;
+  background-color: #555555; /* Black */
+  padding: 20px 0; /* Adjust as needed */
+}
+
