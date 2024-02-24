@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+// edit
 
 import { Main } from "./pages/main.jsx";
 import { Compare } from "./pages/compare.jsx";
